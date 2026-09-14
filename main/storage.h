@@ -4,6 +4,7 @@
 #include <stddef.h>
 #include <stdint.h>
 
+//#define BACKGROUND_PATH "/littlefs/tacho3.rgb565"
 #define BACKGROUND_PATH "/littlefs/tacho.rgb565"
 //#define BACKGROUND_PATH "/littlefs/myTacho.rgb565"
 #define BACKGROUND_BYTES (240u * 240u * 2u)
